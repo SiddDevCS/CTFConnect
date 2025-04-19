@@ -18,3 +18,8 @@ CTF Connect is a social platform designed to help cybersecurity enthusiasts conn
 - **Database:** Supabase (PostgreSQL)
 - **Authentication:** Supabase Auth
 - **Real-time Features:** Supabase Realtime
+
+© 2025 Sidd. All rights reserved.
+
+This project is protected under copyright law.
+No part of this codebase may be copied, used, modified, or redistributed without explicit permission from the author.
